@@ -512,7 +512,7 @@
     <string name="transfers_context_menu_copy_infohash_copied">Infohash skopiowane do schowka</string>
     <string name="shutting_down">Wyłączanie…</string>
     <string name="transfers_context_menu_copy_infohash">Skopiuj InfoHash</string>
-    <string name="why_we_need_storage_permissions">Dlaczego potrzebujemy uprawnienia pamici.</string>
+    <string name="why_we_need_storage_permissions">Dlaczego potrzebujemy uprawnienia Pamięci.</string>
     <string name="restarting">Ponowne uruchamianie…</string>
     <string name="torrent_transfer_aborted_on_mobile_data">Transfery Torrentów nie zostaną wznowione dopóki nie połączysz się z siecią Wi-Fi. (Sprawdź twoje Ustawienia Sieci aby zobaczyć zużycie danych mobilnych)</string>
     <string name="keep_in_touch">Bądź w kontakcie!</string>
